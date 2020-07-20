@@ -1,5 +1,4 @@
 # Modifying scripts like rolesFX to work with this:
-
     For example in rolesFX where "AddEventHandler('chatMessage', function(Source, Name, Msg)" is
     you need to add:
     ```
